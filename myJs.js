@@ -8,5 +8,5 @@ function initVisual()
 	$("button").click(function()
 		{
 			$("div").animate({left: '250px'});
-		});
+ 		});
 }
