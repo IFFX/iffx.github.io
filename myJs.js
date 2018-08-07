@@ -1,7 +1,7 @@
 var w = window.innerWidth;
 var h = window.innerHeight;
 
-$(document).ready(initVisual);
+//$(document).ready(initVisual);
 
 function initVisual()
 {
