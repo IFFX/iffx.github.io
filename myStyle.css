@@ -1,7 +1,6 @@
 #a1{
-  background:#08bf21;
   position:relative;
-  width: 100vw;
+  width: 300vw;
   height: 100vh;
   background: #6C7A89;
   display: flex;
@@ -11,6 +10,6 @@
 }
 
 #a1_1{
-  background:#111111;
+  background:#555555;
   position:relative;
 }
