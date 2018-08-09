@@ -9,7 +9,7 @@ $(document).ready(function(){
 
 function btn()
 {
-    document.getElementById("A1").style.backgroundColor = "red"
+    document.getElementById("a1").innerHTML = "Paragraph changed!";
     
 }
     
