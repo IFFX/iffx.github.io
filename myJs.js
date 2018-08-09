@@ -7,7 +7,7 @@ $(document).ready(function(){
     });
 });
 
-function()
+function btn()
 {
     document.getElementById("A1").style.backgroundColor = "red"
     
