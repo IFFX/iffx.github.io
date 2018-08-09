@@ -1,5 +1,4 @@
-var w = window.innerWidth;
-var h = window.innerHeight;
+
 
 
     document.getElementById("a1").innerHTML = "Paragraph casdasd";
